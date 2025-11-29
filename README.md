@@ -1,1 +1,1 @@
-This is the main documentation repo for the project.
+This branch currently contains the frontend app under frontend/.
